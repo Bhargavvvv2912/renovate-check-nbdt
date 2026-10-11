@@ -3,7 +3,7 @@ requests
 pyparsing
 zipp
 torch==1.6.0
-torchvision==0.7.0
+torchvision==0.29.1
 nltk
 scikit-learn
 networkx
