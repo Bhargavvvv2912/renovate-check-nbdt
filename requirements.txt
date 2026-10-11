@@ -2,7 +2,7 @@ pytorchcv
 requests
 pyparsing
 zipp
-torch==1.6.0
+torch==1.13.1
 torchvision==0.7.0
 nltk
 scikit-learn
